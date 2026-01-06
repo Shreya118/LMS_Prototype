@@ -1,0 +1,91 @@
+[
+    {
+        "question": "What does SQL stand for?",
+        "option1": "Structure Query Language",
+        "option2": "Sequential Query Language",
+        "option3": "Systematic Query Language",
+        "option4": "Structured Query Language", 
+        "answer": 1
+    },
+
+    {
+        "question": "Which SQL statement is used to update data in a database?",
+        "option1": "MODIFY",
+        "option2": "UPDATE",
+        "option3": "ALTER",
+        "option4": "CHANGE", 
+        "answer": 2
+    },
+
+    {
+        "question": "What does the SQL keyword \"GROUP BY\" do?",
+        "option1": "Orders the result set in ascending order",
+        "option2": "Group rows that have the same values into summary rows",
+        "option3": "Filters rows based on a specified condition",
+        "option4": "Joins two or more tables", 
+        "answer": 2
+    },
+
+    {
+        "question": "Which SQL operator is used to combine two or more conditions in a WHERE clause?",
+        "option1": "AND",
+        "option2": "OR",
+        "option3": "NOT",
+        "option4": "LIKE", 
+        "answer": 1
+    },
+
+    {
+        "question": "Which SQL statement is used to delete data from a database?",
+        "option1": "TRUNCATE",
+        "option2": "DELETE",
+        "option3": "DROP",
+        "option4": "REMOVE", 
+        "answer": 2
+    },
+
+    {
+        "question": "What does the SQL keyword \"DISTINCT\" do?",
+        "option1": "Filters duplicate rows from the result set",
+        "option2": "Orders the result set in ascending order",
+        "option3": "Group rows that have the same values into summary rows",
+        "option4": "Joins two or more tables", 
+        "answer": 1
+    },
+
+    {
+        "question": "Which SQL statement is used to add a new column to an existing table?",
+        "option1": "MODIFY",
+        "option2": "INSERT",
+        "option3": "ALTER",
+        "option4": "ADD", 
+        "answer": 3
+    },
+
+    {
+        "question": "Which SQL keyword is used to retrieve data from a database?",
+        "option1": "FETCH",
+        "option2": "EXTRACT",
+        "option3": "SELECT",
+        "option4": "RECOVER", 
+        "answer": 3
+    },
+
+    {
+        "question": "What is the purpose of the WHERE clause in SQL?",
+        "option1": "To specify which columns to select",
+        "option2": "To specify which table to select from",
+        "option3": "To filter rows based on a specified condition",
+        "option4": "To order the results", 
+        "answer": 3
+    },
+
+    {
+        "question": "What does the SQL keyword \"ORDER BY\" do?",
+        "option1": "Filters rows based on a specified condition",
+        "option2": "Group rows that have the same values into summary rows",
+        "option3": "Orders the result set based on specified columns",
+        "option4": "Joins two or more tables", 
+        "answer": 3
+    }
+]
