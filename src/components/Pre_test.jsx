@@ -5,10 +5,10 @@ import data from '../assets/data.json'
 
 const Pre_test = ({ onFinish }) => {
   
-  let [index, setIndex] = useState(0)
-  let [lock, setLock] = useState(false)
-  let [score, setScore] = useState(0)
-  let [result, setResult] = useState(false)
+  const [index, setIndex] = useState(0)
+  const [lock, setLock] = useState(false)
+  const [score, setScore] = useState(0)
+  const [result, setResult] = useState(false)
 
   const [questions] = useState(() =>
     [...data].sort(() => Math.random() - 0.5).slice(0, 3)

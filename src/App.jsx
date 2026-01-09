@@ -6,7 +6,7 @@ import Video from './components/video'
 
 const App = () => {
 
-  let [stage, setStage] = useState("pre")
+  const [stage, setStage] = useState("pre")
 
   return (
     <div> 
